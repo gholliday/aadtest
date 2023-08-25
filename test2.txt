@@ -1,4 +1,4 @@
 "AadClientId": "7b2aa9fa-5128-4aee-9476-cb7f25280fe4",
-"AadSecret": "DbZ8Q~dysR7gS6KwPNRBjRSuafizloogKMIZvaf",
+"AadSecret": "DbZ8Q~dysR7gS6KwPNRBjRSuafizloogKMIZvaf_",
 "AadTenantDomain": "granthm365dev.onmicrosoft.com",
 "AadTenantId": "3a8cb9c3-a50c-4dd4-9ec6-d099451f9d5d",
