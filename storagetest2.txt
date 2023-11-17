@@ -1,0 +1,1 @@
+DefaultEndpointsProtocol=https;AccountName=granthstoragetest;AccountKey=b2jQZO7K8cmrPZ7Ov1NHW7c/l5nDcgcahmypvh9u5H3kj7kZoU8T18JnZLYJFCQ8UzM6fvYtAQRM+AStwcqo8w==;EndpointSuffix=core.windows.net
